@@ -28,3 +28,19 @@ p {
     min-height: 200px;
     min-width: 40vw;
 }
+
+.v2k19 p {
+    color: white;
+}
+
+.v2k19 a {
+    color: #fafafa;
+}
+
+.v2k19 .container {
+    background: rgb(23, 36, 69);
+}
+
+.v2k19 .modal {
+    background: rgb(32, 45, 76);
+}
