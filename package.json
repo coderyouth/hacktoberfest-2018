@@ -1,0 +1,23 @@
+{
+  "name": "hacktoberfest-2018",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Spooky HacktoberFest Website!",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve --no-clipboard -l 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderyouth/hacktoberfest-2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coderyouth/hacktoberfest-2018/issues"
+  },
+  "homepage": "https://github.com/coderyouth/hacktoberfest-2018#readme",
+  "dependencies": {
+    "serve": "^11.2.0"
+  }
+}
